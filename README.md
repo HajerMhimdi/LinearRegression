@@ -1,3 +1,3 @@
 # LinearRegression
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HajerMhimdi/LinearRegression.git/main?filepath=T3_HajerMhimdi.ipynb)
+https://mybinder.org/v2/gh/HajerMhimdi/LinearRegression/1983cf0cf1e81d291ca32fd138377f4c4ba4eb61
